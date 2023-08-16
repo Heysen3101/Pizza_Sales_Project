@@ -2,7 +2,9 @@
 # Pizza Sales Project(POWER BI/ SQL)
 ![](pizza-fast-delivery-icons-set-vector.jpg)
 ---
-
+## SQL QUERIES FOR THIS PROJECT
+Click the link below to check the sql code for the business problem solve.
+https://github.com/Heysen3101/Pizza_Sales_Project/blob/main/code.sql
 ## INTRODUCTION
 This is Power BI project analysing the sales data of a pizza store for the year 2015. From the Dashboard we can see the different insights provided, which can help the company to build a stratergy for the upcoming year to increase their sales. Some important insights are the Revenue generated , most sold Pizza's, worst sold pizza, etc.
 
